@@ -1,5 +1,5 @@
 # Spectral Perturbation Meets Incomplete Multi-view Data
-This repo hosts the code for paper "Spectral Perturbation Meets Incomplete Multi-view Data, in IJCAI-2019". Beyong [_multi-view clustering_](https://github.com/cswanghao/Multi-view-Clustering), the paper tackles _incomplete multi-view clustering_ (a.k.a. partial multi-view clustering), where a number of data instances are missing in certain views.
+This repo hosts the code for paper "Spectral Perturbation Meets Incomplete Multi-view Data, in IJCAI-2019". Beyond [_multi-view clustering_](https://github.com/cswanghao/Multi-view-Clustering), the paper tackles _incomplete multi-view clustering_ (a.k.a. partial multi-view clustering), where a number of data instances are missing in certain views.
 
 The proposed method shows a strong link between spectral perturbation and incomplete multi-view clustering. The key idea is to transfer the missing problem from data matrix to similarity matrix and reduce the spectral perturbation risk among different views while balancing all views to learn a consensus representation for the final clustering results.
 
